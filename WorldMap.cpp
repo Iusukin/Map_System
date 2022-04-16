@@ -21,7 +21,7 @@ int main()
 	int number;
 
 	TextureHolder th;
-	Texture& texture = TextureHolder::GetTexture("background_sheet2.png");;
+	Texture& texture = TextureHolder::GetTexture("graphics/background_sheet2.png");;
 	int TILE_SIZE = 100;
 
 	VertexArray rVA;
